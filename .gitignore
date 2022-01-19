@@ -55,6 +55,21 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
+#After plus
+*.prefab
+*.mat
+*.fbx
+*.mtl
+*.obj
+*.png
+
+*.prefab.meta
+*.mat.meta
+*.fbx.meta
+*.mtl.meta
+*.obj.meta
+*.png.meta
+
 # Crashlytics generated file
 crashlytics-build.properties
 
